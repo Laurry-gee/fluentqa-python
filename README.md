@@ -19,10 +19,10 @@ Python Lib is for QA Daily Usage:
 
 ![](qa-daily-utils.png)
 
-- [fluentqa-pytpl](./fluentqa-pytpl/) easy to setup project
-- [fluentqa-base](./fluentqa_base) builtin toolkits and different tips
-- [fluentqa-qpydao](./fluentqa-pdao/) easy to access database
-- [fluentqa-qone](./fluentqa-pyutils/) all-in-one project to quick make backend api
+- [fluentqa-pytpl](https://github.com/fluent-qa/fluent-pypro-template.git) easy to setup project
+- [fluentqa-base](https://github.com//fluent-qa/fluentqa-pybase.git) builtin toolkits and different tips
+- [fluentqa-qpydao](https://github.com/fluent-qa/fluentqa-pdao/) easy to access database
+- [fluentqa-qone](https://github.com/qdriven/fluentqa-pyutils.git/) all-in-one project to quick make backend api
 - [fluentqa-plugin](./fluentqa-plugins/) plugins for pytest
 
 ## Python Daily Tools 
