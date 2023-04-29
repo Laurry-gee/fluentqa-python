@@ -27,7 +27,7 @@ Python Lib is for QA Daily Usage:
 
 ## Python Daily Tools 
 
-- [fluentqa-helper](./fluentqa-helper/) Easy API Capture Tools
+- [fluentqa-helper](https://github.com/fluent-qa//fluentqa-helper/) Easy API Capture Tools
 
 
 ## Python Clients
