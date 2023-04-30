@@ -1,0 +1,8 @@
+pytest-plugins:
+  - https://github.com/smarie/python-pytest-cases.git
+
+mocke-servers:
+  -  https://github.com/carletes/mock-ssh-server.git
+
+assertions:
+  -  https://github.com/artisanofcode/python-conjecture.git
