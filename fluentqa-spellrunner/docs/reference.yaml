@@ -1,0 +1,7 @@
+meta-libs:
+  - https://github.com/coady/multimethod.git
+  - https://github.com/Aran-Fey/introspection.git
+  - categoory
+  - https://github.com/ikalnytskyi/picobox
+  - https://github.com/allrod5/injectable.git
+  - https://github.com/kodemore/kink.git

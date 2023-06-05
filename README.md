@@ -17,17 +17,16 @@ cookiecutter https://github.com/qdriven/fluent-pypro-template.git
 
 Python Lib is for QA Daily Usage:
 
-![](qa-daily-utils.png)
+![img](qa-daily-utils.png)
 
 - [fluentqa-pytpl](https://github.com/fluent-qa/fluent-pypro-template.git) easy to setup project
-- [fluentqa-base](https://github.com//fluent-qa/fluentqa-pybase.git) builtin toolkits and different tips
-- [fluentqa-qpydao](https://github.com/fluent-qa/fluentqa-pdao/) easy to access database
+- [fluentqa-base](https://github.com//fluent-qa/fluentqa-pybase.git) builtin toolkits and different utilitity codes
+- [fluentqa-qpydao](https://github.com/fluent-qa/fluentqa-pdao/) easy to access database lib
 - [fluentqa-qone](https://github.com/qdriven/fluentqa-pyutils.git/) all-in-one project to quick make backend api
 - [fluentqa-plugin](./fluentqa-plugins/) plugins for pytest
+- [fluentqa-helper](https://github.com/fluent-qa//fluentqa-helper/) Easy API Capture Tools for automation API testing
 
-## Python Daily Tools 
-
-- [fluentqa-helper](https://github.com/fluent-qa//fluentqa-helper/) Easy API Capture Tools
+## Python Daily Tools - Use Case Based
 
 
 ## Python Clients
