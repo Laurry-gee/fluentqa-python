@@ -1,0 +1,7 @@
+.venv/
+poetry.lock
+.idea/
+.pytest_cache/
+__pycache__/
+*.csv
+*.xlsx

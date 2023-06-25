@@ -25,6 +25,7 @@ Python Lib is for QA Daily Usage:
 - [fluentqa-qone](https://github.com/qdriven/fluentqa-pyutils.git/) all-in-one project to quick make backend api
 - [fluentqa-plugin](./fluentqa-plugins/) plugins for pytest
 - [fluentqa-helper](https://github.com/fluent-qa//fluentqa-helper/) Easy API Capture Tools for automation API testing
+- [fluentqa-model](https://github.com/qdriven/fluentqa-models.git) Easy Python lib to deal with Python model class, dict, json ....
 
 ## Python Daily Tools - Use Case Based
 
