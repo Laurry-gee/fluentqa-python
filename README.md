@@ -1,52 +1,15 @@
 # README
 
-Python Libs for QA
+FluentQA Python is a collection of python libs used for QA daily work. 
 
-## Overview
+- Overview:
+![img](./qa-daily-utils.png)
 
-## Python Template project
+## Packages included
 
-- [python-project-template](https://github.com/fluent-qa/fluent-pypro-template.git)
-
-* Usage:
-
-```sh
-cookiecutter https://github.com/qdriven/fluent-pypro-template.git
-```
-## Python libs
-
-Python Lib is for QA Daily Usage:
-
-![img](qa-daily-utils.png)
-
-- [fluentqa-pytpl](https://github.com/fluent-qa/fluent-pypro-template.git) easy to setup project
-- [fluentqa-base](https://github.com//fluent-qa/fluentqa-pybase.git) builtin toolkits and different utilitity codes
-- [fluentqa-qpydao](https://github.com/fluent-qa/fluentqa-pdao/) easy to access database lib
-- [fluentqa-qone](https://github.com/qdriven/fluentqa-pyutils.git/) all-in-one project to quick make backend api
-- [fluentqa-plugin](./fluentqa-plugins/) plugins for pytest
-- [fluentqa-helper](https://github.com/fluent-qa/fluentqa-helper/) Easy API Capture Tools for automation API testing
-- [fluentqa-model](https://github.com/fluent-qa/fluentqa-models.git) Easy Python lib to deal with Python model class, dict, json ....
-
-## Python Daily Tools - Use Case Based
-
-- [] TBD
-
-## Python Clients
-
-- [] TBD
-
-## Python DI/IoC
-
-- [] TBD
-
-## Python Plugins
-
-- [] TBD
-
-## Python Workflow/Runner
-
-- [] TBD
-
-## Awesome Python
-- [todo-arch](https://github.com/Raghav2211/todo-app-infra.git)
-- [todo-app](https://github.com/heikkilamarko/todo-app.gits)
+- [fluentqa-pytpl](https://github.com/fluent-qa/fluentqa-pytpl.git) create poetry based template project
+- [fluentqa_base](https://github.com/fluent-qa/fluentqa-pybase.git) base python libs used for QA
+  ![](2023-07-08-21-53-43.png)
+- [fluentqa-dao](https://github.com/fluent-qa/fluentqa-dao.git) database operations libs
+- [fluentqa-models](https://github.com/fluent-qa/fluentqa-models.git) handle structured data in python
+- [fleuntqa-helper](https://github.com/fluent-qa/fluentqa-helper.git)helper utility to do testing

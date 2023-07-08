@@ -1,0 +1,12 @@
+[submodule "fluentqa-pytpl"]
+	path = fluentqa-pytpl
+	url = https://github.com/fluent-qa/fluentqa-pytpl.git
+[submodule "fluentqa_pdao"]
+	path = fluentqa_pdao
+	url = https://github.com/fluent-qa/fluentqa-pdao.git
+[submodule "fluentqa-models"]
+	path = fluentqa-models
+	url = git@github.com:qdriven/fluentqa-models.git
+[submodule "fluentqa-helper"]
+	path = fluentqa-helper
+	url = https://github.com/fluent-qa/fluentqa-helper.git
