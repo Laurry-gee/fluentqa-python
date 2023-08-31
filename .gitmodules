@@ -10,3 +10,6 @@
 [submodule "fluentqa-helper"]
 	path = fluentqa-helper
 	url = https://github.com/fluent-qa/fluentqa-helper.git
+[submodule "pyqa-revisitied"]
+	path = pyqa-revisitied
+	url = https://github.com/fluent-qa/pyqa-30min.git
